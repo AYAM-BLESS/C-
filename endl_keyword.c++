@@ -7,4 +7,5 @@ int main(){
     cout<<"number is = "<<num<<endl;
     //endl manipulator
     cout<<"value of number = "<<num<<"\n";
+   
 }
