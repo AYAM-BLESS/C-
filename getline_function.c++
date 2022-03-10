@@ -5,6 +5,6 @@ int main(){
     string name;
     cout<<"enter your full names:";
     getline(cin, name);
-    cout<<"Hello,"<<name<<"!\n";
+    cout<<"Hi,"<<name<<"!\n";
     return 0;
 }
