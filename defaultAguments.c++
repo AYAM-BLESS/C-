@@ -10,8 +10,8 @@ int sum(int a, int b = 42)
 }
 int main ()
 {
-    int x = 24;
-    int y = 36;
+    int x = 20;
+    int y = 43;
     //calling the function with both parameters
      int result = sum(x, y);
      cout << result << endl;

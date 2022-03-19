@@ -12,5 +12,5 @@ int main (){
     cout << volume()<< endl;
     cout << volume(5) << endl;
     cout << volume(2, 3) << endl;
-    cout << volume(3, 7, 6) << endl;
+    cout << volume(5, 3, 6) << endl;
 }
