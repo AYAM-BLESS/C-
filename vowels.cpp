@@ -20,8 +20,9 @@ int main (){
         cout<<ch<<"is a vowel.";
         break;
         default:
-        // if letter entered is not in the switch cases display and error message that it's not a vowel
-        cout<<ch<<"is not a vowel.";
+        // if letter entered is not in the switch cases display and error message that it's not a vowel but a consonant
+       cout<<\n;
+        cout<<ch<<" is not a vowel but a consonant";
     }
     return 0;
 }
